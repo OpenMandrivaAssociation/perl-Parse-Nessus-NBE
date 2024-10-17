@@ -7,7 +7,7 @@ Release:	4
 Summary:	Extract information from Nessus NBE files
 License:	Artistic
 Group:		Development/Perl
-Url:		http://search.cpan.org/dist/%{upstream_name}
+Url:		https://search.cpan.org/dist/%{upstream_name}
 Source0:	http://search.cpan.org/CPAN/authors/id/D/DK/DKYGER/%{upstream_name}-%{upstream_version}.tar.gz
 
 BuildRequires:	perl-devel
